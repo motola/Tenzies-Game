@@ -1,3 +1,10 @@
+# Tenzies Game
+A dice game where users roll dice until all are the same.
+
+![Alt text](<./src/assets/tenzies.png>)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
